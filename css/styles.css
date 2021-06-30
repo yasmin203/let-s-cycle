@@ -462,12 +462,13 @@ footer {
 .social-icons {
     position: fixed;
     top: 50%;
-    left: 0;
+    left: 20px;
 }
 
 .fab {
     font-size: 20px;
     display: block;
+    padding-bottom: 5px;
 
 }
 
@@ -485,11 +486,8 @@ footer {
         background-image: none;
     }
     .container {
-        margin: 0 50px;
-
+        margin: 0 100px;
     }
-
-
     .logo {
         margin-top: 10px;
         width: 70px;
@@ -610,7 +608,5 @@ margin-top: 60px;
     margin-top: 10px;
 
 }
-body{
-    overflow: hidden;
-}
+
 }
